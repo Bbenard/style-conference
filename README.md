@@ -13,6 +13,8 @@ javascript
 
 About
 
+Contact
+
 Portfolio
 
 
